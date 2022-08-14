@@ -1,3 +1,3 @@
 # leet_code
-## Solutions
+## Solutions in Ruby
 Valid Parentheses
